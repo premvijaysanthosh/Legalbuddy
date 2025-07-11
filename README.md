@@ -1,4 +1,4 @@
-# LegalBuddy: An AI-Powered Legal Assistant
+# LegalBuddy:- An AI-Powered Legal Assistant
 
 # 🧠 LegalBuddy: AI-Powered Legal Assistant
 
